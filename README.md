@@ -13,9 +13,7 @@ You need a browser extension to run userscripts:
 - [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Firefox, Edge, Safari, Opera)
 - [Violentmonkey](https://violentmonkey.github.io/) (Chrome, Firefox, Edge, Opera)
 
-##### I don't have an Android device to test on but tested on iOS with Orion Browser using ViolentMonkey! :)
-
-Script has been only tested on Tampermonkey, but should work great on Violentmonkey as well!
+##### Tested on Firefox with Tampermonkey and on iOS with Orion Browser using ViolentMonkey! :)
 
 #### Tampermonkey
 
