@@ -13,6 +13,8 @@ You need a browser extension to run userscripts:
 - [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Firefox, Edge, Safari, Opera)
 - [Violentmonkey](https://violentmonkey.github.io/) (Chrome, Firefox, Edge, Opera)
 
+Script has been only tested on Tampermonkey, but should work great on Violentmonkey as well!
+
 #### Tampermonkey
 
 1. Go to [Tampermonkey.net](https://www.tampermonkey.net/) and install the extension for your browser.
