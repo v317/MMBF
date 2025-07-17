@@ -6,7 +6,7 @@
 
 ## Installation
 
-### 1. Install a Userscript Manager
+### 1. Install a Userscript Manager (Pick only one of these!)
 
 You need a browser extension to run userscripts:
 
